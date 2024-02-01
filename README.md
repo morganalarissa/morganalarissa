@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morgana</h1>
-<h3 align="center">I am a professional in career transition, focused on entering the .Net/C# BackEnd Development area. I have mastery in Object Oriented Programming with an emphasis on C#, Web Programming (WEBAPI), Messageria (Kafka and Twilio) Software Architecture, Agile Methods and Automated Testing. I seek to apply my technical knowledge and passion for programming in innovative challenges, aligning my experience in the financial sector to create effective solutions.</h3>
+<h3 align="center">I am a professional in career transition, focused on entering the .Net/C# back-end development area. I have knowledge in Object Oriented Programming with an emphasis on C#, Web Programming (WEBAPI), Messageria (Kafka and Twilio) Software Architecture, Agile Methods and Automated Testing. I seek to apply my technical knowledge and passion for programming in innovative challenges, aligning my experience in the financial sector to create effective solutions.</h3>
 
 - 📫 How to reach me **morganalrsantos@gmail.com**
 
